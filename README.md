@@ -23,9 +23,10 @@
         <ul>
             <li>CV sur mesure adapté à votre profil</li>
             <li>Lettres de motivation personnalisées</li>
+			<li>Traduction de vos document en la langue de votre choix</li>
             <li>Relecture et amélioration de vos documents existants</li>
         </ul>
-        <a href="mailto:contact@cv-lettres-pro.fr" class="cta">Contactez-nous</a>
+        <a href="mailto:cyberdp2@gmail.com" class="cta">Contactez-nous: +237 673455556</a>
     </main>
     <footer>
         &copy; 2025 Rédaction Pro - Tous droits réservés
